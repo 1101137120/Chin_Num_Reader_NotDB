@@ -1,0 +1,13 @@
+c:\users\abby\documents\visual studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\obj\Debug\ChinNum_RFID_Reader.Form1.resources
+c:\users\abby\documents\visual studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\obj\Debug\ChinNum_RFID_Reader.csproj.GenerateResource.Cache
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\bin\Debug\UHFReader18CSharp.dll
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\bin\Debug\SMC5052B.exe.config
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\bin\Debug\SMC5052B.exe
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\bin\Debug\SMC5052B.pdb
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\obj\Debug\SMC5052B.Properties.Resources.resources
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\obj\Debug\SMC5052B.exe
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\obj\Debug\SMC5052B.pdb
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\obj\Debug\ChinNum_RFID_Reader.csprojResolveAssemblyReference.cache
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\bin\Debug\MySql.Data.dll
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\bin\Debug\System.Net.Http.dll
+C:\Users\abby\Documents\Visual Studio 2015\Projects\ChinNum_RFID_Reader\ChinNum_RFID_Reader\bin\Debug\System.Net.Http.xml

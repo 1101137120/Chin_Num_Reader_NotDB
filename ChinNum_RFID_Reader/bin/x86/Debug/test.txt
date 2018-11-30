@@ -1,0 +1,16 @@
+104.236.153.32
+RFID_Reader
+root
+isup155231
+ChinNum_Reader_data
+id
+chinID
+date
+time
+TagID
+result
+chinNum_Reader
+id
+date
+time
+status
